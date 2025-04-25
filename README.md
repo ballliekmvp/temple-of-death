@@ -1,3 +1,7 @@
+# Welcome to the DUNGEON
+
+Please have fun playing this python CLI based game I coded out of pure boredom as a second semester senior in high school.
+
 ## Gameplay Instructions:
 
 The game is turn-based. You make a move, then monsters make their moves.
@@ -22,12 +26,12 @@ Controls:
 
 ## Map Symbols:
 
- - #: Wall
- - .: Floor
- - @: You (The Player)
- - G: Goblin (Basic Monster)
- - D: Dragon (Stronger Monster - doesn't heal in this simple version)
- - !: Weapon (Increases Strength/Damage)
- - ?: Potion (Heals Health)
- - >: Stairs Down
- - $: Golden Idol (Win Condition - only on Level 5)
+ - **#**: Wall
+ - **.**: Floor
+ - **@**: You (The Player)
+ - **G**: Goblin (Basic Monster)
+ - **D**: Dragon (Stronger Monster - doesn't heal in this simple version)
+ - **!**: Weapon (Increases Strength/Damage)
+ - **?**: Potion (Heals Health)
+ - **>**: Stairs Down
+ - **$**: Golden Idol (Win Condition - only on Level 5)
