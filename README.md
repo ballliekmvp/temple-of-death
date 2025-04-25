@@ -22,12 +22,12 @@ Controls:
 
 ## Map Symbols:
 
-#: Wall
-.: Floor
-@: You (The Player)
-G: Goblin (Basic Monster)
-D: Dragon (Stronger Monster - doesn't heal in this simple version)
-!: Weapon (Increases Strength/Damage)
-?: Potion (Heals Health)
->: Stairs Down
-$: Golden Idol (Win Condition - only on Level 5)
+ - #: Wall
+ - .: Floor
+ - @: You (The Player)
+ - G: Goblin (Basic Monster)
+ - D: Dragon (Stronger Monster - doesn't heal in this simple version)
+ - !: Weapon (Increases Strength/Damage)
+ - ?: Potion (Heals Health)
+ - >: Stairs Down
+ - $: Golden Idol (Win Condition - only on Level 5)
